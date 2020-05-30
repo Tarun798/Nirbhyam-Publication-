@@ -1,0 +1,139 @@
+#title{
+    background-color: #ff4c68;
+    font-family: 'Montserrat';
+    color: #fff;
+}
+
+h1{
+    font-family: 'Montserrat-bold';
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.container-fluid{
+    padding: 1% 8%;
+}
+.col-lg-6{
+    alignment: center;
+}
+
+/*Navbar*/
+.navbar-brand{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.navbar{
+    padding-bottom: 2.6rem;
+}
+.nav-item{
+    padding: 0 12px;
+}
+.nav-link{
+    font-size: 1.3rem;
+}
+
+/*Download-Buttons*/
+.button{
+    margin: 5% 3% 5% 0%;
+}
+
+.title-image{
+    width: 90%;
+}
+
+
+
+
+
+/*About*/
+#about{
+    background-color: floralwhite;
+}
+#about h1{
+    padding: 3% 8%;
+    text-align: center;
+
+}
+.motivation{
+    text-align: center;
+    font-family: 'Montserrat-bold';
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.about-image{
+    max-width: 40%;
+    max-height: 40%;
+}
+
+/*forkflow*/
+#workflow{
+    background-color: floralwhite;
+    alignment: center;
+    text-align: center;
+}
+.work-flow-image{
+    max-height: 70%;
+    max-width: 100%;
+}
+#workflow h2{
+    font-family: 'Montserrat-bold';
+    font-size: 2rem;
+    line-height: 1.5;
+}
+/*FeatureSection*/
+#features{
+    padding: 7% 7%;
+    background-color: #ff4c68;
+}
+.feature-box{
+    text-align: center;
+}
+.feature-box h3{
+    font-family: 'Montserrat-bold';
+    font-size: 2rem;
+    line-height: 1.5;
+}
+.feature-box p{
+    color:#ffffff;
+}
+.feature-image{
+    max-width: 30%;
+    max-height: 30%;
+}
+/*future-Work*/
+#future-work{
+    background-color: #ff4c68;
+
+}
+.header-future-work{
+    padding: 2% 42%;
+}
+#future-work h2{
+    font-family: 'Montserrat-bold';
+    font-size: 2rem;
+    line-height: 1.5;
+}
+.future-work-image{
+    max-width: 50%;
+    max-height: 60%;
+    border-radius: 100%;
+}
+/*Footer*/
+#footer{
+    background-color: floralwhite;
+    alignment: center;
+}
+#footer .container-fluid {
+    padding: 3% 15%;
+    text-align: center;
+}
+.footer-image{
+    max-height: 4%;
+    max-width: 4%;
+    margin: 10px 10px;
+}
+.footer-publication-image{
+    max-height: 20%;
+    max-width: 20%;
+}
